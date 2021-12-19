@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "159024-apple-iphone-iphone_11-yabloko-ios_11-1436x3113.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
